@@ -1,0 +1,20 @@
+{
+  "name": "tutorial_nodeschoolio_learnyoureact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.3.13",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-react-views": "^0.9.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
